@@ -251,3 +251,24 @@ legend{
     bottom: 180px;
     margin-right: 200px;
 }
+footer {
+            background-color: #E6A4B4;
+            color: white;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .footer-left {
+            display: flex;
+            flex-direction: column;
+        }
+        .footer-left input {
+            margin-bottom: 10px;
+        }
+        .footer-middle {
+            text-align: center;
+        }
+        .footer-right {
+            text-align: right;
+        }
