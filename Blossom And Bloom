@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <header>
     <img src="https://hips.hearstapps.com/hmg-prod/images/cherry-blossom-season-65cf997a26afb.jpg?crop=0.668xw:1.00xh;0.151xw,0&resize=60:*" alt="blossom season logo" class="logo">
     <h1>BLOSSOM AND BLOOM SHOP</h1>
@@ -7,3 +13,35 @@
         <a href="#contact">Contact us</a>
     </nav>
 </header>
+<div class="intro-section" style="background-image: url('./images/blossom.jpg');">
+ <h1 class="name-of-shop">Blossom and Bloom</h1>
+ <p class="motto"><em>"Where every bloom tells a story"</em></p>
+</div>
+
+ <!--  -->
+<br>
+
+
+
+<!-- about us section -->
+ <div class="about-us">
+    <h1>About Us</h1>
+    <p>Welcome to Blossom and Bloom, where every bloom tells a story! Established in 2024 by passionate floral enthusiasts Lindsey Monyepao and Banele Mfeka, Blossom and Bloom is more than just a flower shop — it's a celebration of nature's beauty and the artistry of floral design. With a shared love for flowers and a commitment to spreading joy through exquisite arrangements, Lindsey and Banele embarked on a journey to create a haven where customers can experience the magic of flowers in all their glory. At Blosspom and Bloom, we believe in crafting unforgettable moments with our meticulously curated selection of blooms, personalized arrangements, and exceptional service. Whether you're celebrating life's special occasions or simply brightening someone's day, let Blossom and Bloom be your trusted partner in transforming moments into memories, one petal at a time. From flower arrangements, wedding boquets and gift baskets, we have you covered.</p>
+ </div>
+    <!--  -->
+
+    <!-- our services -->
+
+<section class="our-services">
+    <h1>Our Services</h1>
+<span class="service-images">
+    <img src="https://images.farmgirlflowers.com/image/upload/f_auto,q_auto,dpr_2.0,h_380,w_380/v1/production/hwnnn97kaedqhyaxwjae" width="230" alt="flower-arrangement">
+    Flower Arrangements
+    <img src="https://somethingborrowedblooms.com/media/image/4213/taylor-bridal-bouquet-round.jpg?size=800" width="230"   alt="wedding-bouquet">
+    Wedding Bouquets
+    <img src="https://basketeer.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/03/18132614/WN-040.jpg" width="220"   alt="gift-baskets">
+    Gift Baskets
+</span>
+
+</section>
+  
