@@ -118,4 +118,15 @@ box-shadow: 20px 20px 20px #F5EEE6;
 
 }
 
-
+    .arrangement {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .arrangement img {
+            border: 2px solid black;
+            margin-right: 10px;
+        }
+        .arrangement-text {
+            flex-grow: 1;
+}
