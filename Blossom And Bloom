@@ -193,6 +193,24 @@ This basket includes :</p>
 <img src="./images/profile picture.jpg"width="400" alt="profile picture" id="profile-picture">
 <p class="contribution">Lindsey made significant contributions to the flower shop website project by creating the "Intro," "About Us," "Our Services," "Wedding Bouquets," and "Gift Basket" sections. She also contributed to 50% of the "Founders" section. Lindsey utilized the lessons from weeks 0, 1, and 2, as well as additional documentation, to develop a high-quality and cohesive final product.</p>
 </div>
+
+
+<footer>
+    <div class="footer-left">
+        <p><b><i>Contact us on Discord</i></b></p>
+        <p>Lindsey on Discord: Lindsey Monyepao</p>
+        <p>Banele on Discord: Banele Mkefa</p>
+    </div>
+    <div class="footer-middle">
+        <p>Copyright @ 2024</p>
+    </div>
+    <div class="footer-right">
+        <p><b><i>Github Account Handles</b></i></p>
+        <p>Lindsey: LindseyM23</p>
+        <p>Banele: Banele08</p>
+    </div>
+</footer>
+
 </body>
 </html>
 
