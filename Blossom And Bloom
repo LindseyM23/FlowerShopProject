@@ -1,1 +1,9 @@
-
+<header>
+    <img src="https://hips.hearstapps.com/hmg-prod/images/cherry-blossom-season-65cf997a26afb.jpg?crop=0.668xw:1.00xh;0.151xw,0&resize=60:*" alt="blossom season logo" class="logo">
+    <h1>BLOSSOM AND BLOOM SHOP</h1>
+    <nav>
+        <a href="#menu">Menu</a>
+        <a href="#about">About us</a>
+        <a href="#contact">Contact us</a>
+    </nav>
+</header>
