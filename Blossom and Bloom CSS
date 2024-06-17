@@ -78,3 +78,44 @@ h1{
     padding-bottom: -10px;
     margin-top: 10px;
     margin-bottom: -10px;
+
+.about-us{
+    background-color: #FFF8E3;
+    margin-top: -10px;
+    padding: 20px 10px;
+    margin-right:-100px;
+    margin-left: -80px;
+    margin-bottom: -10px;
+    
+}
+p{
+    font-size: 14px;
+    font-weight: 100px;
+    font-family: cursive;
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    padding: 12px 50px ;
+}
+
+.our-services{
+    background-color: #D27E94;
+    margin-left: -10px;
+    margin-right: -100px;
+    padding-bottom: 90px;
+}
+.service-images{
+position: relative;
+left: 140px;
+top: 30px;
+padding-left: -20px;
+padding-right: 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:20px;
+background-color: #FFF8E3;
+padding: 12px;
+box-shadow: 20px 20px 20px #F5EEE6;
+
+}
+
+
