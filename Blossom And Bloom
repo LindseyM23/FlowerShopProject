@@ -121,7 +121,42 @@
         <li>Our luxurious basket bouquets range from R 2 500 to R 4 000, depending on the flowers and basket chosen. Perfect for the special person in your life, each bespoke arrangement is crafted to exude elegance and charm, making every moment unforgettable.</li>
     </ul>
     <br>
-   </section>
+
+<form action="">
+        <fieldset>
+            <legend>Can't find what you are looking for?</legend>
+            <p>Fill out your details for a direct quote.</p>
+
+            <label for="Full-Name">Name</label>
+            <br>
+            <input type="text">
+            <br>
+            <br>
+            <label for="email">Email</label>
+            <br>
+            <input type="user-email">
+            <br>
+            <br>
+            <label for="description">Describe your preffered bouquet</label>
+            <br>
+            <input type="text" name="comments" id="description">
+            <br>
+            <br>
+            <label for="budget">Budget</label>
+            <br>
+            <select name="budget"id="choose-yourbudget">
+                <option value="status-caption">What is your preffered budget</option>
+                <option value="standard">R 1 500-R 2 500</option>
+                <option value="premeium">R 2 500-R 3 500</option>
+                <option value="Gold">R 4 500-R 6 000</option>
+            </select>
+            <br>
+            <br>
+            <button>Submit
+            </button>
+        </fieldset>
+    </form>
+</section>
 
 
 
