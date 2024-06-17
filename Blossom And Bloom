@@ -158,6 +158,38 @@
     </form>
 </section>
 
+<section class="gift-basket">
+<h1>Gift Baskets</h1>
+<h3 class="heading-gift-b">Standard Gift Basket</h3>
+<img src="https://t3.ftcdn.net/jpg/04/10/09/52/360_F_410095208_rjh7b6j9gMsUONX0trmx2Kup8DLuQYA8.jpg" width="400" alt="Standard Gift Bag" id="standard-gift-bag">
+<p  class="description"><strong>Perfect for making any occasion memorable with a touch of sophistication and charm</strong>
+
+This basket includes :</p>
+<ul>
+    <li>Small bouquet with the flowers of your choice.</li>
+    <li>Chocolate,Sweets,Nuts,hand lotion,bag of chips and fruits. <em>(choose any 3).</em></li>
+    <li>Bottle of red or white wine from our wine farm "The Vine". </li>
+    <li>Price - R 1 200</li>
+</ul>
+
+<h3 class="heading-gift-b">Premium Gift Basket</h3>
+<img src="https://basketeer.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/11/25152102/WN083-1.jpg" width="400" alt="Premeium Gift Bag" id="premeium-gift-bag">
+<p class="description">Perfect for making any occasion memorable with a touch of sophistication and charm</strong>
+<br>
+This basket includes :</p>
+<ul>
+    <li>Medium bouquet with the flowers of your choice.</li>
+    <li>Chocolate,Sweets,Biltong,Nuts,hand lotion,bag of chips,fruits, gift card,ballons,scented candles and bath salts. <em>(choose any 5)</em></li>
+    <li>Bottle of red or white wine from our wine farm "The Vine" </li>
+    <li>Gift card.</li>
+    <li>Price - R 3 600</li>
+</ul>
+<br>
+<hr>
+</section>
+
+
+
 
 
 
