@@ -8,10 +8,6 @@
 </head>
 <body>
 
-
-
-
-
 <header>
     <img src="https://hips.hearstapps.com/hmg-prod/images/cherry-blossom-season-65cf997a26afb.jpg?crop=0.668xw:1.00xh;0.151xw,0&resize=60:*" alt="blossom season logo" class="logo">
     <h1>BLOSSOM AND BLOOM SHOP</h1>
@@ -95,6 +91,39 @@
 </div>
 
 <br>
+
+<section class="wedding-bouquets">
+    <h1>Wedding Bouquets</h1>
+    <h3 class="types-of-bouquets"> Cascading Bouquet</h3>
+    
+    <img src="https://i.pinimg.com/736x/4b/d8/72/4bd8727db5d964ac6bcca10c9bba0448.jpg"width="400" alt="cascading bouquet" id="cascading-bouquet">
+   <p class="description">Elegant and dramatic, with flowers flowing gracefully downward.</p>
+    <ul>  
+        <li>Create your dream cascading bouquet with a selection of exquisite flowers such as roses, orchids, lilies, stephanotis, calla lilies, ivy, delphiniums, and gardenias. Each bouquet is artfully wrapped in elegant tissue paper and tied with a satin ribbon for a sophisticated finish. We offer personalized options, allowing you to add your creative touch to make the bouquet uniquely yours.</li>
+        <li>This exquisite cascading bouquets range from R 1 600 to R 2 200, depending on the flowers selected and level of customisation.</li>
+    </ul>
+    <br>
+
+    <h3 class="types-of-bouquets">Round Bouquet</h3>
+    <img src="https://cdn0.hitched.co.uk/article/6886/original/1280/jpg/116886-pink-and-white-rose-wedding-bouquet.jpeg"width="400" alt="Round Bouquet" id="round-bouquet">
+    <p class="description">Symmetrical and perfectly round, often featuring a single type of flower for a cohesive look.</p>
+    <ul>
+        <li>Design your perfect round bouquet with a selection of timeless flowers such as roses, peonies, ranunculus, hydrangeas, tulips, anemones, dahlias, garden roses, gerbera daisies, and lisianthus. Each bouquet is beautifully wrapped in premium tissue paper and tied with an elegant satin ribbon. We offer bespoke options, allowing you to add your personal touch and creativity, another sentimental value item to make your day extra special. </li>
+        <li>Our exquisite round bouquets range from R 1 500 to R 3 500, depending on the flowers selected and the level of customization.</li>
+    </ul>
+    <br>
+
+    <h3 class="types-of-bouquets">Basket Bouquet</h3>
+    <img src="https://bloomdefleur.com.cy/wp-content/uploads/2019/10/IMG-c78c01548050469d9b393ececc32e46b-V.jpg" width="400" alt="Basket Bouquet" id="basket-bouquet">
+    <p class="description">Brighten a loved ones day with a beautiful basket bouquet arranged in a decorative basket, offering a charming and whimsical touch.</p>
+    <ul>
+        <li>Create an elegant basket bouquet featuring a delightful mix of roses, lilies, daisies, sunflowers, and tulips. Choose from a variety of beautifully crafted baskets to complement your arrangement. Each bouquet comes with a personalized, heartfelt message card</li>
+        <li>Our luxurious basket bouquets range from R 2 500 to R 4 000, depending on the flowers and basket chosen. Perfect for the special person in your life, each bespoke arrangement is crafted to exude elegance and charm, making every moment unforgettable.</li>
+    </ul>
+    <br>
+   </section>
+
+
 
 
 
